@@ -9,3 +9,9 @@ Text
 
 # Packages used
 Text
+
+# ERROR CODES
+Wow, it seems you have made an error. 
+
+### CODE 2, `TOO MANY INPUTS GIVEN`
+Text
