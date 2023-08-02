@@ -13,5 +13,8 @@ Text
 # ERROR CODES
 Wow, it seems you have made an error. 
 
+**CODE 1**, `TBD`  
+Text Here  
+  
 **CODE 2**, `TOO MANY INPUTS GIVEN`  
-* Wow
+Text Here
