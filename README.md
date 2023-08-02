@@ -13,7 +13,7 @@ Text
 # ERROR CODES
 Wow, it seems you have made an error. 
 
-**CODE 1**, `TBD`  
+**CODE 1**, `NO INPUTS GIVEN`  
 Text Here  
   
 **CODE 2**, `TOO MANY INPUTS GIVEN`  
