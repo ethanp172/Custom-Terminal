@@ -13,11 +13,14 @@ Text
 # ERROR CODES
 Wow, it seems you have made an error. 
 
-**CODE 1**, `NO INPUTS GIVEN`  
+**CODE 1**: `NO INPUTS GIVEN`  
 Text Here  
   
-**CODE 2**, `TOO MANY INPUTS GIVEN`  
-Text Here
+**CODE 2**: `TOO MANY INPUTS GIVEN`  
+Text Here  
+
+**CODE 3**: `error`  
+Text  
 
 # Using commands
 To run a command, they are put into different sections.  
