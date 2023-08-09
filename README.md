@@ -1,5 +1,6 @@
 # Custom-Terminal
 A custom terminal, similar to a linux layout.
+`VERSION 0.0` ~ `NOT RELEASED`
 
 # How it works
 Text
