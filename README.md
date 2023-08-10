@@ -1,5 +1,5 @@
 # Custom-Terminal
-`VERSION 0.1` ~ `NOT RELEASED` ~ `16 HOURS SPENT`  
+`VERSION 0.1` ~ `NOT RELEASED` ~ `17 HOURS SPENT`  
 A custom terminal, similar to a linux layout.  
 
 # How it works
